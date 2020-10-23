@@ -1,7 +1,7 @@
-![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token)
+[![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token)](https://github.com/jkulvichs-sandbox/red-token/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/red-token)](https://github.com/jkulvichs-sandbox/red-token/commits/master)
-![GitHub issues](https://img.shields.io/github/issues-raw/jkulvichs-sandbox/red-token)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/jkulvichs-sandbox/red-token)
+[![GitHub issues](https://img.shields.io/github/issues-raw/jkulvichs-sandbox/red-token)](https://github.com/jkulvichs-sandbox/red-token/issues)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/jkulvichs-sandbox/red-token)](https://github.com/jkulvichs-sandbox/red-token/releases)
 
 # :closed_lock_with_key: RedToken Project
 
