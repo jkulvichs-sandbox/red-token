@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/red-token)](https://github.com/jkulvichs-sandbox/red-token/commits/master)
+![GitHub issues](https://img.shields.io/github/issues-raw/jkulvichs-sandbox/red-token)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/jkulvichs-sandbox/red-token)
+
 # :closed_lock_with_key: RedToken Project
 
 > ### :warning: This repo is in development status yet. Be aware to use it.
@@ -8,7 +13,7 @@
 
 ## :bookmark_tabs: Here is 2 submodules
 
-- [RedToken Server](https://github.com/jkulvichs-sandbox/red-token-server)  
+- [RedToken Server](https://github.com/jkulvichs-sandbox/red-token-server) - GoLang OAuth2 server and storage  
     ![Repo Dev Status](https://img.shields.io/badge/status-in%20dev-%23f44336)
     ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvichs-sandbox/red-token-server)
     ![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token-server)
@@ -16,7 +21,7 @@
     [![Go Report Card](https://goreportcard.com/badge/github.com/jkulvichs-sandbox/red-token-server)](https://goreportcard.com/report/github.com/jkulvichs-sandbox/red-token)
     [![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/red-token-server)](https://github.com/jkulvichs-sandbox/red-token/commits/master)
     
-- RedToken Front (Coming Soon)    
+- RedToken Front (Coming Soon) - Vue3/TS Front-End
 
 This repo just is a submodules' container and contains overview documentation.
 Also, here you can get [last release bundles](https://github.com/jkulvichs-sandbox/red-token/releases).
