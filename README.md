@@ -6,7 +6,7 @@
 
 **Secure Authorization Web Portal & Key-Value Storage Server** to link all of your own services.
 
-## :bookmark_tabs Here is 2 submodules
+## :bookmark_tabs: Here is 2 submodules
 
 - [RedToken Server](https://github.com/jkulvichs-sandbox/red-token-server)  
     ![Repo Dev Status](https://img.shields.io/badge/status-in%20dev-%23f44336)
