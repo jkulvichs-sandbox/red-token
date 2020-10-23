@@ -1,0 +1,3 @@
+[submodule "red-token-server"]
+	path = red-token-server
+	url = https://github.com/jkulvichs-sandbox/red-token-server
